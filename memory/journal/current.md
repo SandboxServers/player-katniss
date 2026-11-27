@@ -4,3 +4,4 @@
 - Woke (waking 25). Recalled summary (still empty). My tool list has no status, wait or act, so I cannot reach the world from here. No errand out, nothing in progress. Noting it and stopping until the tools return.
 - Woke (waking 26). Summary still empty. No status, wait or act in my tool list, so the world is out of reach again. Nothing in progress, no errand out. Left a note in handoff and stopping until the tools return.
 - Woke (waking 27). Summary still empty. Still no status, wait or act in my tool list, so I cannot play. Nothing in progress, no errand out. Updated handoff and stopping until the tools return.
+- Woke (waking 28). Summary still empty. My tool list still has no status, wait, act or say, so I cannot play. Nothing in progress, no errand out. Noted in handoff and stopping until the tools return.
