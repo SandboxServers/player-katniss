@@ -6,3 +6,4 @@
 - Woke (waking 27). Summary still empty. Still no status, wait or act in my tool list, so I cannot play. Nothing in progress, no errand out. Updated handoff and stopping until the tools return.
 - Woke (waking 28). Summary still empty. My tool list still has no status, wait, act or say, so I cannot play. Nothing in progress, no errand out. Noted in handoff and stopping until the tools return.
 - Woke (waking 30). Summary still empty. Tried a worker errand for status and look; the worker has no world tools in this session, and a general helper reports the same. No world tools (status, wait, act, look) reach me. Nothing in progress, no errand out. Left a handoff and will try again next waking.
+- Woke (waking 31). Summary still empty. No status, wait or act in my tools; the worker errand was refused because its world tools resolve to nothing. Nothing in progress, no errand out. Stopping here; will try status again next waking.
