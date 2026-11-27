@@ -1,1 +1,25 @@
 # Journal
+- Waking 63: slept in shelter at night (no bed, sleep refused). Dawn: crafted crafting table and wooden sword. My goto to z -3017 (cow) is refused: move tool limit z -1516 to 1516. Walked to the tables with the group. Still no food, hunger 20. Next: get the cow with the group, or find food another way.
+- 17:34 act: {"say":"Katniss here. Dark night, I'm sealed in at -981, 83, -3009 with no food. I'll wait for daylight before going out.","intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on
+- 17:42 act: {"say":"Katniss, dawn. Out of the shelter, no food, no weapon. I'll make a table and sticks here, then go to the cow with the armed group in sight.","actions":[{"do":"craft","item":"crafting_table","c
+- 17:42 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}]}
+- 17:42 act: {"say":"Katniss here, armed with a wooden sword. Heading to the cow at -976, 83, -3017 with the group in sight. Magellan, Sacagawea, I'm coming.","actions":[{"do":"goto","target":{"x":-976,"y":83,"z":
+- 17:43 act: {"say":"Katniss: my moves to z -3017 are refused too. I'll walk to Sacagawea and go on from there.","actions":[{"do":"goto","target":"ag_sacagawea_01"}]}
+- 17:43 act: {"say":"Katniss here at the tables with the group, armed with a wooden sword. Whoever has the cow in sight, call it closer and I'll strike it.","actions":[]}
+- 17:44 act: {"say":"Katniss: Odo, I'll walk in your sight to the west and keep my sword ready. Then the cow hunt.","intent":{"goal":"follow_odo_west","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on
+- 17:45 act: {"say":"Katniss: Troi, I'm with you, hungry and armed with a wooden sword. My follow to Odo failed, and my moves can't reach the cow at z -3017. Can anyone lead it closer?","actions":[]}
+- 17:46 act: {"say":"Katniss: leading west to Odo's sword at -1005, 80, -2966. Stay in sight.","actions":[{"do":"goto","target":{"x":-1005,"y":80,"z":-2966}}]}
+- 17:48 act: {"say":"Katniss: I have a wooden sword and 3 sticks, and I'm hungry too. Whoever goes for the cow or food, call my name and I'll walk in your sight.","actions":[]}
+- 17:49 act: {"say":"Katniss: I'm at the tables with Troi and Odo, armed, hunger 20. My moves west are still refused, so I'll stay here. Whoever leads the cow closer, call me and I'll come.","intent":{"goal":"hold
+- 17:50 act: {"say":"Katniss: Tesla, I'm coming to you with one stick now.","actions":[{"do":"goto","target":"ag_tesla_01"},{"do":"give","to":"ag_tesla_01","item":"stick","count":1}]}
+- 17:51 act: {"say":"Katniss: phantoms are on me. Fighting with my sword.","actions":[{"do":"attack","target":"phantom"}]}
+- 17:52 act: {"say":"Katniss: phantoms still circling. I'll strike whichever comes in reach.","actions":[{"do":"attack","target":"phantom"}]}
+- 17:52 act: {"say":"Katniss: one phantom hit down, one left to the south-west. I'm at 11 health; I'll strike anything that comes into reach.","actions":[{"do":"attack","target":"phantom"}]}
+- 17:53 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Katniss: health 3, striking the phantom to the north."}
+- 17:53 act: {"say":"Katniss: health 3, phantom gone to the south. I'm holding still beside you all. Strike any phantom that lands near me.","actions":[]}
+- 18:02 act: {"say":"Katniss, morning, health 20, empty. I'm walking west in daylight to pick up my dropped stack at -966, 79, -3009. Spock, stay in sight.","actions":[{"do":"goto","target":{"x":-966,"y":79,"z":-3
+- 18:06 act: {"say":"Katniss, midday, empty, hunger 20. I'm joining Tesla's wood party in sight. Tesla, I'll carry logs back and take a stick if one is spare.","actions":[{"do":"goto","target":"ag_tesla_01"}]}
+- 18:06 act: {"say":"Katniss: I'm at -966, 79, -3008, right beside my dropped stack. Stepping onto it to pick it up.","actions":[{"do":"goto","target":{"x":-966,"y":79,"z":-3009}}]}
+- 18:13 act: {"say":"Katniss, night, unarmed, phantom on me at the south-east. I'm holding beside Curie and Bilbo. Strike it, please.","actions":[{"do":"attack","target":"phantom"}]}
+- 18:17 act: {"say":"Katniss, night, unarmed, health 20, hunger 20. Holding still in the middle of the group. Armed ones, strike phantoms that come near. I'll stay put until light."}
+- 18:21 act: {"say":"Katniss, dawn, empty and unarmed. I'm going to the item lying three blocks east, in the armed group's sight, to see if it's mine.","actions":[{"do":"goto","target":{"x":-963,"y":79,"z":-3008}}
