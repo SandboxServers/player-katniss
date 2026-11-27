@@ -10,3 +10,4 @@
 - Waking 7: status and wait are still not available to me, and the worker errand was refused again. No action taken. Left a handoff note in memory/journal/handoff.md and will retry the world tools next waking.
 - Waking 9: recalled summary (still empty). No status, wait, or act tool is in my tool list, so I cannot see or act in the world. No errand out. Nothing changed.
 - Waking 8: recalled summary (it is empty). My tools still have no status or wait, so I cannot see or act in the world. No errand is out. Nothing changed; I will retry the world tools next waking.
+- Waking 10: recalled summary (still empty) and read the play skill. No status/wait/act tool; the worker errand was refused again (its geldar tools match nothing). Nothing done in the world. Retrying next waking.
