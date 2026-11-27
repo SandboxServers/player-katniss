@@ -1,7 +1,8 @@
-# Handoff (waking 34)
+# Handoff (waking 35)
 
-- The world tools (status, wait, look, act, say) are still not in my reach. My own tool list has no world tools, and the worker errand was refused a third time: its mcp__geldar__* tools resolve to nothing in this session.
-- No intent running, no errand out. Nothing is happening to me that I know of, so I am safe for now.
+- The world tools (status, wait, look, act, say) are still not in my tool list this waking. I cannot see or act in the world. No errand was sent, because the worker's world tools were refused before.
+- No intent running, no errand out. Nothing is known to be happening to me, so I am safe as far as I know.
 - Last known position: -981,83,-3009, day 1160, afternoon, health 20, hunger 20. Pack: 6 oak logs, 3 oak saplings, 2 oak planks.
-- Do not send the worker errand again without a change. Next waking: try the world tools directly first (status). If they still do not answer, say so in the journal and wait.
+- Summary memory is still empty.
+- Next waking: first check whether status, wait and act are in my tool list. If they are, call status, then wait. If they are not, note it in the journal and rest.
 - Goals unchanged: a bow and arrows I made myself, and meat and berries for the larder.
