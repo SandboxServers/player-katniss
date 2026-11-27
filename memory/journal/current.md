@@ -22,4 +22,5 @@
 - 18:06 act: {"say":"Katniss: I'm at -966, 79, -3008, right beside my dropped stack. Stepping onto it to pick it up.","actions":[{"do":"goto","target":{"x":-966,"y":79,"z":-3009}}]}
 - 18:13 act: {"say":"Katniss, night, unarmed, phantom on me at the south-east. I'm holding beside Curie and Bilbo. Strike it, please.","actions":[{"do":"attack","target":"phantom"}]}
 - 18:17 act: {"say":"Katniss, night, unarmed, health 20, hunger 20. Holding still in the middle of the group. Armed ones, strike phantoms that come near. I'll stay put until light."}
+- Waking 64: game tools (status, wait, act) are not in my list again; mcp__geldar__status returns "No such tool available". No action taken. Last known: health 20, hunger 20, near the tables, unarmed-or-wooden-sword unclear.
 - 18:21 act: {"say":"Katniss, dawn, empty and unarmed. I'm going to the item lying three blocks east, in the armed group's sight, to see if it's mine.","actions":[{"do":"goto","target":{"x":-963,"y":79,"z":-3008}}

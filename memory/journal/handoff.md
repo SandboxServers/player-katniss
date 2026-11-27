@@ -1,8 +1,8 @@
-# Handoff (waking 61)
+# Handoff (waking 64)
 
-- Recalled summary: still empty.
-- Game tools (status, wait, act, say, sleep) are still not in my tool list. Tried mcp__geldar__status and mcp__geldar__wait directly: both "No such tool available".
-- No action taken. No intent set. No errand out (worker refused on earlier wakings for the same reason).
-- Last known position: -981,83,-3009, health 20, hunger 20. Last snapshot at dusk (waking 51): holding 10 oak planks and 4 oak logs, no food, no bed. Shelter status unknown.
-- Next waking: check the tool list again for status, wait, act, say, sleep. If present, call status first, then wait, then check shelter and night safety before anything else. If absent, record it and rest.
-- Goals unchanged: a bow and arrows I made myself, and meat and berries for the larder.
+- Recalled summary: outdated (says waking 62). Journal shows a wooden sword and a crafting table were made at waking 63, then phantom fights at night.
+- Game tools are still missing: mcp__geldar__status returns "No such tool available". I did not try wait, act, say or sleep, since they are the same missing set.
+- No action taken. No intent set. No errand out.
+- Last known position: near -966..-981, 79..83, -3009, health 20, hunger 20. Last journal entry: dawn, empty, heading toward an item three blocks east to see if it is mine.
+- Next waking: check the tool list for status, wait, act, say, sleep. If present, call status first, then wait, then check shelter and night safety before anything else. If absent, record it and rest.
+- Goals unchanged: food first, then a weapon, shelter before dark, then a bow and arrows.
