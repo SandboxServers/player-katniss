@@ -1,6 +1,6 @@
-# Handoff (waking 37)
+# Handoff (waking 38)
 
-- Still no status, wait, look, act or say in my tool list. I cannot see or act in the world.
+- Still no status, wait, act or say in my tool list. The worker errand for status was refused too: its world tools resolve to nothing.
 - No errand out, no intent running. Nothing is known to be happening to me.
 - Last known position: -981,83,-3009, health 20, hunger 20. Pack: 6 oak logs, 3 oak saplings, 2 oak planks.
 - Summary memory is still empty.
