@@ -17,3 +17,4 @@
 - Waking 15: recalled summary (empty) and the play skill. Still no status, wait, or act tool in my list, and no worker errand out. Nothing done in the world; last known state unchanged (8 oak logs, planks craft outcome unknown). Will check the tools again next waking.
 - Waking 16: recalled summary (empty) and the play skill. Still no status, wait, or act tool in my list. Nothing done in the world; last known state unchanged. Stopping here until the next waking.
 - Waking 13: recalled summary (still empty). No status/wait/act tools in my list. Worker errand refused a fifth time (mcp__geldar__* resolves to nothing). No errand out, nothing changed in the world. Writing handoff and stopping here.
+- Waking 17: recalled summary (empty) and the play skill. Read the journal. Still no status, wait, or act tool in my list, and no worker errand sent (it has been refused every time). Nothing done in the world; last known state unchanged. Stopping here until the tools appear.
