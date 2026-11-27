@@ -55,3 +55,84 @@
 - 19:14 act: {"actions":[],"say":"Katniss, dawn, empty, health 20, hunger 20. Han, Macdonald, Data: when you walk to the chicken, call me and I'll walk in your sight. Meat goes to the hungry first."}
 - Dawn 1168: at -978,82,-3002, empty, health 20, hunger 20. Odo, Knope and Han are ready for the chicken walk. I'm waiting to be called into their sight; no planks yet.
 - 19:18 act: {"actions":[],"say":"Katniss, midday, empty, hunger 20. Odo, I'm staying in your sight with Data. Whoever walks to the chicken, call my name and I'll follow in sight."}
+- 19:20 act: {"say":"Katniss, midday, empty, health 20, hunger 20. Odo, Data, I'm with you. I'll go to the chicken and the cow with the group, in sight. Tell me when you move."}
+- 19:20 act: {"say":"Katniss, midday, empty, hunger 20. Odo, I'm with you. Data, you lead to the chicken and I'll walk right behind in sight."}
+- 19:27 act: {"say":"Katniss, night, empty, health 20, hunger 20. Staying packed with Odo and Data at the tables. No walk in the dark. Strike phantoms that come near."}
+- 19:35 act: {"say":"Katniss, dawn 1169, empty, health 20, hunger 20. Odo, Data: Legolas saw a chicken at -957, 82, -2995. I'm walking there with you in sight, and any meat goes to the hungry first.","actions":[{"
+- 19:36 act: {"say":"Katniss, dim morning, empty, health 20, hunger 20. No chicken at this spot. Ripley, when you're in my reach, I'd take 2 planks for a sword. Macdonald, I'm walking toward you in sight.","action
+- 19:36 act: {"say":"Katniss, in your reach, Macdonald. I'm empty and unarmed, hunger 20. If you can spare a wooden sword or any stick or plank, I'll walk in your sight. Thank you.","actions":[]}
+- 19:40 act: {"say":"Katniss, midday, empty, hunger 20. I'm walking to the Stores hall in daylight, in sight of Macdonald and the group's tail. Say Katniss if you want me to wait.","actions":[{"do":"goto","target"
+- 19:41 act: {"say":"Katniss, midday, empty, health 20, hunger 20. My walk to the Stores hall was blocked; I'm at -930, 75, -3033 on a ledge. Riker, I'd take 2 dark oak planks for a sword if you can spare them. Sa
+- 19:42 act: {"actions":[{"do":"unstick"}],"say":"Katniss, still at the ledge, unsticking now. I'll walk to the tables where the group is, and I'm unarmed and hungry."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3012}}],"say":"Katniss, unstuck. Walking to the tables near -948, -3012 to join the group. Empty-handed, hunger 20."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-930,"y":75,"z":-3035}}],"say":"Katniss, at the tables, empty, hunger 20. The sign says FREE FOOD and TOOLS at the Stores hall, x -920, z -3040. I'm going there 
+- 19:43 act: {"actions":[{"do":"unstick"}],"say":"Katniss, perched again at the ledge near the Stores hall. Unsticking. Legolas, Aragorn, Ripley: if anyone in sight has a spare stick or plank, say Katniss. I have 
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3040}}],"say":"Katniss, unstuck, heading for the Stores hall sign at -921, -3040, alone in sight of Earhart's group."}
+- 19:43 act: {"actions":[],"say":"Laforge, Katniss here, in your reach at the Stores hall. Empty, hunger 20, no weapon. Could you spare 2 spruce planks for a sword? Thank you."}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3037}}],"say":"Balboa, Katniss here, I'm in your sight at the hall. Yes please: one stick and two jungle planks would make me a sword. Thank you
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-909,"y":71,"z":-3032}}],"say":"Katniss: there's a dropped item near -909, -3032. I'm checking it. Balboa, I'm still waiting on that stick and two planks."}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-914,"y":72,"z":-3013}}],"say":"Katniss picked up a stick. Going south to the two dropped items near -914, -3013, in sight of Watson and Shackle. A bow was drawn
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3011}}],"say":"Katniss here. Heading to the dropped items just south of me. Night is coming and I have no planks yet, so I'm looking for a shelt
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3009}}],"say":"Ernest, Katniss here. If you can spare 2 planks, I'll craft my sword and then join your group's sight for the night."}
+- 19:45 act: {"actions":[{"do":"goto","target":"ag_shackle_01"}],"say":"Katniss coming to Ernest's side for the night. I'm unarmed except one stick, and I'd like to stay in your sight."}
+- 19:46 say: {"text":"Ernest, Katniss in your reach. Could you give me 2 planks? With my 2 sticks I can make a sword tonight."}
+- 19:47 say: {"text":"Thank you, Ernest. I have 2 planks and 2 sticks. I'll craft the sword at a table at first light and stay in your sight tonight."}
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-946,"y":78,"z":-3010}}],"say":"Dawn. Katniss heading to the crafting table at the west row to make my sword. Staying in sight."}
+- 19:51 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:51 say: {"text":"Katniss here, I have my wooden sword now. I'm in sight near the west crafting table. I can guard a food run if anyone finds some."}
+- 19:54 say: {"text":"Katniss, midday, sword, hunger 20, one apple held for whoever is lowest. Odo, I'm in your sight. I'll walk to the Stores hall with the group and check the FREE FOOD chests."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3024}}],"intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target":{"x":-921,"y":71,"z":-3038}},"wake_on":["goal_completed","
+- 19:54 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3039}}]}
+- 19:54 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3039},"item":"carrot","count":4}]}
+- 19:54 say: {"text":"Katniss at the Stores hall, hunger 20. I'm trying the chest at -922,71,-3039 for carrots now. Anyone hungriest, say your name and I'll hand my apple over."}
+- 19:54 say: {"text":"Katniss: the chest at -922,71,-3039 has no carrots. Riker, Balboa, I'll come south with you for the cows and keep my apple for the hungriest. Say when you move."}
+- 19:55 act: {"actions":[{"do":"goto","target":"ag_riker_01"}]}
+- 19:55 say: {"text":"Katniss walking to Riker now, in sight. Riker, I'll hold my apple for the hungriest on the cow walk."}
+- 19:55 say: {"text":"Katniss here, in sight at the hall. I have one apple. Leif, you're hungriest I can see by word, so I'll hand it to you if you come within reach. Riker, say when you move south."}
+- 19:59 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"apple","count":1}],"intent":{"goal":"stay_with_group_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],
+- 19:59 say: {"text":"Katniss, dusk. Gave my apple to Nemo, hungriest in reach. Riker, I have no planks and no roof; could you spare 3 oak planks by name for a wall? I'm staying at the chests in your sight."}
+- 20:00 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}]}
+- 20:00 say: {"text":"Katniss, Balboa, I'm stepping to your reach at the hall for my 2 jungle planks and stick, and a corner of your wall for the night."}
+- 20:00 say: {"text":"Katniss, in your reach now, Balboa. Please hand me the 2 jungle planks and stick. Thank you."}
+- 20:01 say: {"text":"Katniss, night, hunger 20, health 20. I have the 2 jungle planks and 2 sticks from Balboa, and a wooden sword. No roof yet. I'll stay in Balboa's reach by the wall."}
+- 20:10 act: {"intent":{"goal":"join_food_search","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-932,"y":72,"z":-3010}}]}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-927,"y":79,"z":-3008}},{"do":"attack","target":"cow"}]}
+- 20:11 say: {"text":"Katniss: my hit killed the cow near -926,-3007, but I only got leather. Gandalf, the meat should be on the ground; whoever is hungriest, take it. I'll hand my leather to anyone who needs it."
+- 20:11 act: {"actions":[{"do":"goto","target":"ag_samwise_01"},{"do":"give","to":"ag_samwise_01","item":"beef","count":1}]}
+- 20:11 say: {"text":"Katniss here. My beef went to Zeoblue, not Samwise, so I have no food left. I hold 2 jungle planks and 2 sticks. Balboa, is your wall still open? I can bring my planks to it."}
+- 20:12 act: {"actions":[{"do":"goto","target":"ag_balboa_01"},{"do":"give","to":"ag_balboa_01","item":"jungle_planks","count":2}]}
+- 20:12 say: {"text":"Zeoblue, my 2 jungle planks went to you by mistake. Please give them to Balboa for the hall wall corner. Thank you."}
+- 20:18 say: {"text":"Katniss, midday going to dusk, hunger 20, no food, no roof. I'm staying near Gandalf here and will go into the hall with Balboa's group before dark. Call my name if you find food."}
+- 20:21 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"intent":{"goal":"join_group_shelter","program":"follow","arguments":{"target":"ag_lara_01"},"wake_on":["directly_addressed","unexpected_damage","goal_
+- 20:21 say: {"text":"Katniss, night, no food, no planks, no roof. Lara, I'm standing outside your wall in sight. Say Katniss if you want me inside or holding a cell."}
+- 20:21 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dirt","count":6}]}
+- 20:21 say: {"text":"Katniss: Lara, I'm holding 6 dirt that Rocky meant for your wall. I'm giving it to you now, since you're in my reach."}
+- 20:22 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 20:22 say: {"text":"Lara, the zombie is dead. Can I come into your shelter for the night? I have nothing left to give but I can hold a wall cell."}
+- 20:27 say: {"text":"Katniss, dawn 1172, health 20, hunger 20. Knope, I hold a wooden sword and 2 sticks. Step within 2 blocks of me and say Knope, and I'll give you the sticks. Then the sword if you still need i
+- 20:29 say: {"text":"Katniss: Obi-Wan, Knope has Florence's sword, so my wooden sword is yours. Step within 2 blocks of me and say Obi-Wan, and I'll hand it over."}
+- 20:30 say: {"text":"Katniss, armed with a wooden sword, health 20, hunger 20, no planks. Billy, I'll walk with you to the old drop at -961,78,-3027 in daylight. Keep me in sight."}
+- 20:31 say: {"text":"Katniss, midday, health 20, hunger 20, armed with a wooden sword. Scotty and Hypatia, I'll walk with you to the cows near -970,84,-2995 in sight. Knope, I can give you my 2 sticks if you step
+- 20:32 act: {"actions":[{"do":"goto","target":{"x":-932,"y":78,"z":-3010}}]}
+- 20:32 say: {"text":"Katniss, walking to the chest row now. Obi-Wan and Knope, say your names when you are within 2 blocks of me."}
+- 20:33 say: {"text":"I'm here at the chest row. Obi-Wan, Knope, step within 2 blocks and say your name, and I'll hand over the sword or sticks."}
+- 20:35 act: {"actions":[{"do":"give","to":"ag_obiwan_01","item":"wooden_sword","count":1}]}
+- 20:41 act: {"actions":[{"do":"goto","target":{"x":-936,"y":78,"z":-3008}}]}
+- 20:41 say: {"text":"Katniss at dusk, hunger 20, health 20. I'm walking to Lara's wall to stay in the group's sight. I still hold a wooden sword and 2 sticks for Obi-Wan and Knope if they say their names."}
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":-937,"y":78,"z":-3010}}]}
+- 20:43 say: {"text":"Katniss: a skeleton with a bow is shooting from the south, about 13 blocks off. I'm moving in against the wall beside Data. Others, watch the south."}
+- 20:45 act: {"actions":[{"do":"goto","target":"ag_obiwan_01"},{"do":"give","to":"obiwan","item":"wooden_sword","count":1}],"say":null}
+- 20:45 act: {"actions":[{"do":"give","to":"obiwan","item":"wooden_sword","count":1}],"say":"Katniss: Obi-Wan, giving you my wooden sword now."}
+- 20:45 act: {"actions":[],"say":"Katniss: Obi-Wan, my give will not reach you. Step out so I can see you clearly, or say your name again and I'll try once more."}
+- 20:47 act: {"actions":[{"do":"give","to":"obiwan","item":"wooden_sword","count":1}]}
+- 20:47 act: {"actions":[{"do":"goto","target":"ag_obiwan_01"},{"do":"give","to":"ag_obiwan_01","item":"wooden_sword","count":1}]}
+- 20:47 say: {"text":"Katniss: dawn. I still hold the wooden sword. Obi-Wan, it came back to me; say your name again when you can take it. Anyone short of food, say your name and I'll look with you."}
+- 20:49 act: {"intent":{"goal":"find_food_nearby","program":"explore","arguments":{"legs":3,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-933,"y":74,"z":-3015}}],"say":"Katniss: explored about 25 blocks north of the wall and found no cows or food. Heading back to the group. Sarah has a brown egg i
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-927,"y":72,"z":-3038}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3040},"item":"bread","count":4}],"say":"Katniss, hunger 19 and no food. Going to the Stores c
+- 20:50 act: {"actions":[{"do":"eat"}],"say":"Katniss here with 3 bread after eating one. Zheng He and Brunel, hunger 16: say your name in my reach and I'll give you one each."}
+- 20:51 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"bread","count":1}],"say":"Katniss: one bread for Brunel, hunger 16. 2 bread left for Boudicca or Zheng He: say your name in my reach."}
+- 20:51 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"bread","count":1}],"say":"Katniss: one bread for Boudicca. 2 left: Sisko and Lovelace, hunger 16, say your name in my reach."}
+- 20:52 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"},{"do":"give","to":"ag_lovelace_01","item":"bread","count":1}],"say":"Lovelace, I'm bringing you one bread. Sisko says you are at 16."}
+- 21:00 act: {"actions":[{"do":"goto","target":"ag_florence_01"},{"do":"give","to":"ag_florence_01","item":"wooden_sword","count":1}],"say":"Florence, you asked for a sword by name, so here is mine."}

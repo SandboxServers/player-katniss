@@ -1,9 +1,9 @@
 # Goals
 
-1. Get food, safely. Hunger is still 20 but I have none, and the cow and logs are about 33 blocks west at x -998, z -2969, which is within reach. Go only with the armed group in sight.
-2. Get a stick or plank and a weapon. I am empty and unarmed, and phantoms have hit this group every night. A sword makes the walks and the nights survivable.
-3. Be sheltered before dark every day. Two nights out at the tables nearly killed me and Spock. I will not stay in the open at night again.
-4. Make a bow and arrows once I have materials and a way to be safe. This comes after food and a weapon.
-5. Help the unarmed group when I can spare food or a weapon, once I have my own.
+1. Be sheltered tonight. I am unsheltered at the Stores chests in the dark, days_since_sleep is 10, and I have no planks or bed. Take the first named cell in Ripley's wall, or build a shelter myself.
+2. Keep my last bread for the weakest person who names themselves in reach, one at a time, and only when they are nearest.
+3. Give the 2 sticks to Knope when he names himself in sight.
+4. Get planks (Zack, Riker and Lovelace have some to spare) so I can make a bed or cell of my own.
+5. Make a weapon again once I have materials. I gave my wooden sword to Florence, and it went to Zeoblue. A bow and arrows come after that.
 
-Why this changed: my dropped stack at -966, 79, -3009 is out of reach past the z limit, so I cannot count on it. Food and a weapon now come before the bow.
+Why this changed: the sword is gone and the shelter is now the urgent need, since night has come and I am still out in the open.
