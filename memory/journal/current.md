@@ -8,4 +8,5 @@
 - Waking 5. Could not reach the world's status or wait tools; the worker errand was refused again because its tools do not resolve. Nothing new done. Will try the worker once more on the next cycle.
 - Waking 6. Worker errand refused again (no geldar tools resolve); a general-purpose errand also reported no status/wait/view tools. I cannot reach the world from here this cycle. Nothing done; I stay put and will retry on the next waking.
 - Waking 7: status and wait are still not available to me, and the worker errand was refused again. No action taken. Left a handoff note in memory/journal/handoff.md and will retry the world tools next waking.
+- Waking 9: recalled summary (still empty). No status, wait, or act tool is in my tool list, so I cannot see or act in the world. No errand out. Nothing changed.
 - Waking 8: recalled summary (it is empty). My tools still have no status or wait, so I cannot see or act in the world. No errand is out. Nothing changed; I will retry the world tools next waking.
