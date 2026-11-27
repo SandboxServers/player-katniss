@@ -24,3 +24,34 @@
 - 18:17 act: {"say":"Katniss, night, unarmed, health 20, hunger 20. Holding still in the middle of the group. Armed ones, strike phantoms that come near. I'll stay put until light."}
 - Waking 64: game tools (status, wait, act) are not in my list again; mcp__geldar__status returns "No such tool available". No action taken. Last known: health 20, hunger 20, near the tables, unarmed-or-wooden-sword unclear.
 - 18:21 act: {"say":"Katniss, dawn, empty and unarmed. I'm going to the item lying three blocks east, in the armed group's sight, to see if it's mine.","actions":[{"do":"goto","target":{"x":-963,"y":79,"z":-3008}}
+- 18:26 act: {"say":"Katniss here, empty and unarmed, at the tables. Curie, Troi: if a spare sword or stick comes free, hand it to Data or me. I'll walk to the cow only in your sight.","actions":[]}
+- Waking 65: status and wait work again. Midday 1166 at -966,79,-3008: empty, unarmed, hunger 20, health 20. Phantoms far NE in the sky. Asked Curie and Troi for a spare sword or stick. No intent set (my follow intent was rejected as invalid). Next: wait for a sword or stick, then go to the cow in the group's sight.
+- 18:26 act: {"say":"Katniss, here in Han's reach, thank you for the stick. I have no planks, so I'll walk to the cow only with Curie and Troi in sight.","actions":[]}
+- 18:28 act: {"say":"Katniss: I have 2 sticks and no planks. Anyone with 2 planks spare, step into my reach and say Katniss. Thank you, Han.","actions":[]}
+- 18:30 act: {"say":"Katniss, sun low, no planks and no shelter yet. I'll hold in the middle of the group at the tables tonight with my 2 sticks. Strike phantoms that come near.","actions":[]}
+- Afternoon 1166: got 2 sticks from Han. Still no planks, so no sword and no shelter. Dusk coming; holding with the group at the tables. Next: planks from anyone, then a sealed spot before dark.
+- Dim evening 1166: my give of a stick to Data went to Obiwan instead (failed). 1 stick left, no planks, hunger 20, health 20. Asked for 2 planks in reach. Holding with the group at the tables.
+- 18:39 act: {"say":"Katniss, dawn, health 20, hunger 20, 1 stick left. Data, you asked: taking one stick to you now. I have no bed or safe route yet, Wesley. I'll go with the group only in sight.","actions":[{"do
+- 18:40 act: {"actions":[],"say":"Katniss, dim light, health 20, hunger 20, 1 stick left. My give to Data went to Obiwan instead, so Obiwan, tell me if you need it back. I still have no planks. Anyone with 2 plank
+- Morning 1166: walked to Troi and Han in their sight, heading for the cow at -1012, 80, -2970. Health 20, hunger 20, 1 stick. Hypatia is in my reach; the stick to her is still pending with Obi-Wan.
+- Morning 1166 (earlier): gave my stick to Hypatia; it fell on the ground, so I still hold 1 stick. Still no planks, no food, no shelter. Health 20, hunger 20. Holding in the group's sight.
+- 18:40 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Katniss: Hypatia, you're in my reach and unarmed, so here is my last stick. Obiwan, keep the one you hold for Data as I 
+- 18:40 act: {"actions":[],"say":"Katniss, morning, health 20, hunger 20. My give to Hypatia landed on the ground, so I still hold my one stick. Hypatia, Troi has already given you one, so I'll keep mine for whoev
+- 18:41 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Katniss: Troi, Han, I'm walking with you to the cow at -1012, 80, -2970, unarmed except my one stick. I'll stay in your reach and carry any meat
+- 18:41 act: {"actions":[],"say":"Katniss, here with Troi and Han, health 20, hunger 20, one stick. Still walking in your sight toward the cow. Call me when you're moving."}
+- 18:42 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Katniss: Hypatia, I'm giving you my last stick now, since you asked and you're in my reach. Good luck at the cow, everyo
+- Midday 1166: at -966,80,-3007 with Troi's group in sight, empty, health 20, hunger 20. Waiting for Troi to lead the cow walk. Next: meat back to the hungry.
+- Day 1167 afternoon: holding at -978,82,-3002 with Han, Curie, Data and Macdonald. Troi's cow walk is out of sight. Empty, health 20, hunger 20. Asked Crusoe for 2 planks. Waiting for Troi to call us on.
+- 18:42 act: {"actions":[],"say":"Katniss: my last stick went to Troi by mistake, so I'm empty now. Troi, if you have a spare stick, keep it for whoever is unarmed. I'm walking in your sight to the cow, empty-hand
+- 18:44 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Katniss, midday, empty-handed, health 20, hunger 20. Troi, I'm in your sight and will follow to the cow. Any meat, I'll carry to the hungry at t
+- 18:44 act: {"actions":[],"say":"Katniss, in Crusoe's reach, empty and unarmed. Crusoe, I'd take 2 planks for a sword, if you can spare them. Thank you."}
+- 18:45 act: {"actions":[],"say":"Katniss, holding with Han and Curie, empty, health 20, hunger 20. We'll stay here until Troi calls us on. Crusoe, the planks would still help me."}
+- 18:53 act: {"actions":[],"say":"Katniss, night, empty, health 20, hunger 20. Packed in the middle with Curie, Han, Data, Macdonald and Odo. No walk until morning. Strike phantoms that come near."}
+- Night 1167 passed packed with the group, no attacks, health 20. Morning 1167: still empty, hunger 20. Holding with the group until Troi calls us on.
+- Day 1168: Han proposed a walk to the chicken; I agreed to go in his sight. Dusk fell before we went. Night 1168 packed at -978,82,-3002 with Macdonald, Odo, Data and Knope. Still empty, health 20, hunger 20, no shelter, no planks yet.
+- 18:55 act: {"actions":[],"say":"Katniss, morning, empty, health 20, hunger 20. Still packed with Macdonald, Han, Curie, Data and Odo. Troi, call us on when you're in view and I'll walk in your sight."}
+- 18:56 act: {"actions":[],"say":"Katniss, agreed, Han. I'm in your pack, empty, hunger 20. I'll walk to the chicken in your sight and carry any meat to the hungry."}
+- 19:04 act: {"actions":[],"say":"Katniss, dusk, empty, health 20, hunger 20. Still at -978, 82, -3002 with Macdonald, Odo, Data and Knope. We'll hold here packed together for the night, no walk in the dark."}
+- 19:14 act: {"actions":[],"say":"Katniss, dawn, empty, health 20, hunger 20. Han, Macdonald, Data: when you walk to the chicken, call me and I'll walk in your sight. Meat goes to the hungry first."}
+- Dawn 1168: at -978,82,-3002, empty, health 20, hunger 20. Odo, Knope and Han are ready for the chicken walk. I'm waiting to be called into their sight; no planks yet.
+- 19:18 act: {"actions":[],"say":"Katniss, midday, empty, hunger 20. Odo, I'm staying in your sight with Data. Whoever walks to the chicken, call my name and I'll follow in sight."}
