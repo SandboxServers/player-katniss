@@ -136,3 +136,21 @@
 - 20:51 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"bread","count":1}],"say":"Katniss: one bread for Boudicca. 2 left: Sisko and Lovelace, hunger 16, say your name in my reach."}
 - 20:52 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"},{"do":"give","to":"ag_lovelace_01","item":"bread","count":1}],"say":"Lovelace, I'm bringing you one bread. Sisko says you are at 16."}
 - 21:00 act: {"actions":[{"do":"goto","target":"ag_florence_01"},{"do":"give","to":"ag_florence_01","item":"wooden_sword","count":1}],"say":"Florence, you asked for a sword by name, so here is mine."}
+- 21:16 say: {"text":"Katniss, at the Stores chests, no shelter yet, no planks. Ripley, name my wall cell and the block beside it when you can. I'm staying in sight."}
+- 21:20 say: {"text":"Spock, Katniss here, unsheltered. If you can spare 4 oak planks, I'll build my own cell by the chests. Say so and I'll come to you alone."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3037}}],"say":"Spock, Katniss coming to you alone for the 4 planks."}
+- 21:21 say: {"text":"Spock, Katniss in your reach. Please hand me the 4 oak planks now."}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":-934,"y":71,"z":-3034}}],"say":"Katniss, stepping two blocks clear of the crowd. Spock, if my 4 oak planks are still with you, come alone into my reach.","intent
+- 21:22 act: {"actions":[],"say":"Katniss, alone here at -933,71,-3034. Spock, I still have no planks. Please come into my reach and give the 4 oak planks."}
+- 21:35 act: {"actions":[],"say":"Katniss, morning 1175, unsheltered, at -933,71,-3034. Spock, my 4 oak planks are still owed; come alone into my reach when you can."}
+- 21:37 act: {"actions":[{"do":"goto","target":"ag_spock_01"}],"say":"Katniss walking to Spock now for the 4 oak planks. Please hold them."}
+- 21:38 act: {"actions":[],"say":"Katniss here. Spock, please give me the 4 oak planks now. I am at -932,71,-3035."}
+- 21:41 act: {"actions":[],"say":"Katniss, no planks yet, no shelter, at -932,71,-3035. Hatshepsut, you offered planks. I need about 4 oak or dark oak planks for a cell. I will step alone to you when you say so."}
+- 21:43 act: {"actions":[],"say":"Katniss, dusk 1175, no shelter, no planks, hunger 20. Indy, you offered 9 dark oak planks. I'd take 4 for a cell. Spock, please still hand over your 4 oak planks. Standing still a
+- 21:44 act: {"actions":[{"do":"goto","target":"ag_spock_01"}],"say":"Katniss coming alone to Spock now. Spock, give the 4 oak planks when the others are back."}
+- 21:44 act: {"actions":[],"say":"Katniss here, alone with Spock in reach. Spock, please give the 4 oak planks now."}
+- 21:46 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3035}}],"say":"Katniss stepping three blocks west to -935,71,-3035, alone. Spock, come to me here with the 4 oak planks, nobody else within two 
+- 21:46 act: {"actions":[{"do":"goto","target":{"x":-937,"y":71,"z":-3032}}],"say":"Katniss, alone now at -937,71,-3032. Spock, come alone within two blocks and I'll take the 4 oak planks."}
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":-937,"y":71,"z":-3032}}],"say":"Spock, I'm here at -937,71,-3032, alone with you. Give the 4 oak planks now."}
+- 21:47 act: {"actions":[],"say":"Spock, nobody is within two blocks of me now. Give the 4 oak planks."}
+- 21:48 act: {"actions":[],"say":"Thank you, Spock. I have the 4 oak planks. Morning 1176, I'm not sheltered yet and need more planks for a cell."}
