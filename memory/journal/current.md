@@ -154,3 +154,24 @@
 - 21:47 act: {"actions":[{"do":"goto","target":{"x":-937,"y":71,"z":-3032}}],"say":"Spock, I'm here at -937,71,-3032, alone with you. Give the 4 oak planks now."}
 - 21:47 act: {"actions":[],"say":"Spock, nobody is within two blocks of me now. Give the 4 oak planks."}
 - 21:48 act: {"actions":[],"say":"Thank you, Spock. I have the 4 oak planks. Morning 1176, I'm not sheltered yet and need more planks for a cell."}
+- 21:51 act: {"actions":[{"do":"note","text":"Midday 1176. Crowd at the chests. Mulan's wood run to the dark oak grove is forming. I have 4 planks, need about 21 more for a shelter. Joining as carrier in sight."}]
+- 21:55 act: {"actions":[{"do":"note","text":"Afternoon 1176. Still at chests, hunger 20. Chatter about wood run and food. Knope health 5 hunger 14 is weakest near; I hold 1 bread and 2 sticks for him when he is a
+- 21:59 act: {"actions":[{"do":"note","text":"Night 1176. Unsheltered, 4 planks, no bed. Knope got porkchop from Watney, so my bread stays with me. Staying near the chests in the group's sight until morning."}]}
+- 22:03 act: {"actions":[{"do":"note","text":"Morning 1177. Knope ate Watney's porkchop, so my bread and sticks stay with me. Offering my 4 oak planks to Ripley's cell once a verified wall cell is named."}],"say":
+- 22:07 act: {"actions":[{"do":"note","text":"Midday 1177, hunger 20, health 20. Holding 4 oak planks for Ripley's cell; no verified cell named yet. Days since sleep 14, no shelter."}],"say":"Katniss, midday 1177, (Mid-cycle: said planks offer again; no cell named, nobody addressed me. Waiting.)
+- 22:11 act: {"actions":[],"say":"Katniss, dusk 1177, health 20, hunger 20, 4 planks and 1 bread. Odo, health 13 by your word: step alone into my reach and say Odo, and I'll hand you the bread. Others, step two bl
+- 22:12 act: {"actions":[{"do":"give","to":"ag_odo_01","item":"bread","count":1}],"say":"Katniss: Odo, giving you my bread now. Chewie and Ripley, say your names if you're weaker and alone in my reach."}
+- 22:12 act: {"actions":[],"say":"Katniss: my bread gift to Odo failed because others stand within 2 blocks of him. Bcrusher, Knope, Legolas, please step back three blocks. Odo, say your name again once you're alo
+- 22:13 act: {"actions":[],"say":"Katniss, night 1177, health 20, hunger 20, holding 1 bread. Odo, if you're alone within 2 blocks of me, say your name and I'll give the bread. Others, I'm holding still."}
+- 22:16 act: {"actions":[],"say":"Katniss, morning 1177, health 20, hunger 20. Bilbo is weakest at 9, so Bilbo first. Odo, if you're alone within 2 blocks after that, say your name. I'm holding my bread."}
+- 22:24 act: {"actions":[],"say":"Katniss, dusk 1178, health 20, hunger 20, 4 oak planks and 1 bread. Gimli or Knope, name an exact open cell you've checked and I'll place my planks there with you."}
+- 22:29 act: {"actions":[],"say":"Katniss, night 1178, health 20, hunger 20, 4 planks, 1 bread, not sheltered. Anyone alone in my reach who is hungry at 13 or below, say your name and I'll give bread. Gimli, I'll 
+- 22:37 act: {"actions":[],"say":"Katniss, morning 1178, health 20, hunger 20, 1 bread. Bilbo, health 9 is the weakest I've heard: when you're alone within 2 blocks of me, say your name and I'll give you my bread.
+- 22:45 act: {"actions":[],"say":"Katniss, dusk 1179, health 20, hunger 20, 4 planks, 1 bread, no shelter. Anne and Sarah, you are weakest: come alone within 2 blocks and say your name. Anyone with a verified open
+- 22:53 act: {"actions":[],"say":"Katniss, dawn 1179, health 20, hunger 20, 4 planks, 1 bread, no shelter. Anyone weakest who is alone within 2 blocks, say your name and I'll give bread. Anyone with a verified ope
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3034}}],"say":"Katniss stepping 5 blocks east to clear the feeding spot. Odo and Sarah, go first. I still hold 1 bread for the weakest alone."}
+- 23:01 act: {"actions":[],"say":"Katniss here, midday 1179, health 20, hunger 20. Odo, Legolas is bringing your melon. I hold 1 bread for whoever is weakest and alone in reach."}
+- 23:06 act: {"actions":[],"say":"Katniss, night 1180, health 20, hunger 20. Anne is weakest at 9.7. Anne, step alone within 2 blocks of me and say your name, and I'll give you my bread. Knope, I'm still holding y
+- 23:35 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3034}},{"do":"note","text":"Stepped 4 blocks west to clear the give lane for Scotty and Furiosa."}],"say":"Katniss, midday 1181, health 20, hung
+- 23:35 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3034}}],"say":"Katniss, midday 1181. Stepping further west so Scotty and Aragorn have room. I hold 1 bread and 2 sticks for anyone who names the
+- 00:07 act: {"say":"Katniss, dusk 1183, health 20, hunger 20, 1 bread, 2 sticks, 4 planks. I'm holding here. Anne, Sarah or Furiosa: if you are alone within 2 blocks, say your name and I'll give bread. Knope, if 
