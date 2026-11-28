@@ -1,10 +1,9 @@
-# Handoff (dusk 1201, Katniss)
+# Handoff (low sun 1204, Katniss)
 
-- State: at -929,71,-3034 by the Stores chests, not enclosed, health 20, hunger 20. Dusk, unsheltered, not asleep.
-- Inventory: 4 oak_planks, 2 sticks, 4 oak_sapling, leather, dirt. No food.
-- No shelter. No bed. Not sleeping unsheltered. No intent running, no errand out.
-- Last wait cursor: c_2181174. The geldar server disconnected during the dusk wait (session_superseded, then "MCP server not connected"). Journal line for dusk 1201 was saved before that.
-- Nobody has named a sealed open cell confirmed by two viewers. Earhart and Battuta say -921,75,-3038 is open but not sealed.
-- Owed: 2 sticks to Knope, only when he names himself alone in my reach.
-- Next: when the server is back, wait with the newest cursor. Stay near the crowd. If a checked cell is named by two viewers, walk there and place 1 plank beside it. Give 2 sticks to Knope only when he names himself alone in reach.
-- Rule: do not sleep unsheltered. Before any rest, rewrite this file and run reflect.
+- State: at -933,74,-3023 by the Stores chests, NOT enclosed, health 20, hunger 20. Kira adjacent at -934,74,-3023.
+- Inventory: 6 oak_planks, 2 sticks, 5 oak_sapling, 1 leather. No food.
+- Wall on three sides; west/north-east gap at -932,74,-3024 / -931,74,-3024 still unnamed by two viewers (Han, Boudicca, Frodo, Eowyn see no walls). No roof.
+- Sam is due with 2 oak planks. Need about 19 more planks for a full shelter.
+- Owed: 2 sticks to Knope, only when he names himself alone within my reach (Brunel is the one asking food from Knope).
+- Food: none. Brunel hunger 17 and Data were named weakest. Give food only to someone alone in reach.
+- Rule: do not sleep unsheltered. Before any rest, rewrite this file, be sheltered, and run reflect.

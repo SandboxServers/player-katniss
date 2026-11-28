@@ -63,3 +63,35 @@
 - 03:37 act: {"actions":[],"say":"Katniss, midday 1194. My survey of x-924..-923, y71..72, z-3040..-3038 reads air at y71 z-3038 and y72 all three rows, but it is from an old look. Uhura's place failed as occupied
 - 05:29 act: {"actions":[{"do":"note","text":"Midday 1199 at the Stores chests. 4 planks, 2 sticks, no food, unsheltered. Tesla holds 15 jungle planks and Riker 10 dark oak; I need about 21 more for a roof."}],"sa
 - 05:30 act: {"actions":[],"say":"Katniss, midday 1199. Watney, -962,73,-3054 is not checked by two viewers yet, and I cannot see it from here. Laforge, my 4 planks stay for a checked cell. I stay at the chests in
+- 06:18 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":12},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 06:18 act: {"intent":{"goal":"travel_to_oak_trees","program":"travel","arguments":{"target":{"x":-997,"y":85,"z":-2968}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 06:20 act: {"intent":{"goal":"travel_to_oak_trees","program":"travel","arguments":{"target":{"x":-997,"y":85,"z":-2968}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 06:20 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":12},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 06:21 act: {"actions":[{"do":"break","at":{"x":-998,"y":87,"z":-2969}}]}
+- 06:25 act: {"intent":{"goal":"return_to_stores","program":"travel","arguments":{"target":{"x":-929,"y":71,"z":-3033}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 06:45 act: {"actions":[{"do":"note","text":"Morning 1203: survived night unsheltered at the chests, health 20. 4 planks, 2 sticks. Joining Huck for daylight wood run."}],"say":"Katniss, morning 1203, health 20, 
+- 06:49 act: {"actions":[{"do":"note","text":"Midday 1203: still at the chests with 4 planks. Huck's wood run has not formed. Holding here until a group leaves for the trees or the cell -920,71,-3033 is named by t
+- 06:54 act: {"actions":[{"do":"note","text":"Dusk 1203: at the chests, 4 planks, no shelter confirmed. Holding with the group through the night; wood run at first light if Huck calls it."}]}
+- 06:58 act: {"actions":[{"do":"note","text":"Morning 1204: survived the night at the chests, health 20. Huck still has no wood. Calling a daylight wood run to the oaks near -997,84,-2970; I will walk in sight of 
+- 06:59 act: {"intent":{"goal":"reach_oak_trees","program":"travel","arguments":{"x":-996,"y":84,"z":-2971},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"m
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":-996,"y":84,"z":-2971}}],"say":"Katniss walking to the oaks at -996,84,-2971 in daylight now. Huck, Kira, Obi-Wan: follow in my sight, and say when you arrive."}
+- 07:00 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 07:02 act: {"actions":[{"do":"craft","item":"oak_planks","count":12}]}
+- 07:02 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 07:02 act: {"intent":{"goal":"travel_to_stores","program":"travel","arguments":{"target":{"x":-932,"y":74,"z":-3023}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 07:02 act: {"actions":[{"do":"note","text":"Back at Stores chests 1203 midday. 16 planks, 2 sticks. Logs are scarce at the oaks; offering planks for a shared shelter."}],"say":"Katniss here. I have 16 oak planks
+- 07:03 act: {"actions":[{"do":"note","text":"Afternoon 1203 at Stores chests. Kira and Eowyn offered help. I hold 16 planks; a shelter needs 25. Proposing one shared walled cell."}],"say":"Kira, Eowyn: I hold 16 
+- 07:04 act: {"actions":[{"do":"note","text":"Afternoon 1203: named shelter cell at -933,74,-3023 (my spot by the chests). Asked viewers to confirm. Have 16 planks; wall blueprint needs 15."}],"say":"Shelter cell 
+- 07:04 act: {"actions":[{"do":"note","text":"Afternoon 1203: cell -933,74,-3023 named. Sam has 2 planks coming; Kira in sight. Waiting for viewers to confirm."}],"say":"Sam, come now. Kira is in sight of me at -9
+- 07:05 act: {"intent":{"goal":"shelter_cell","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 07:05 act: {"actions":[{"do":"note","text":"Dusk 1204: wall built on three sides, 6 planks left. Gap still open on the left (west). Need blocks for the gap and a roof."}],"say":"Katniss: my wall is up on the eas
+- 07:06 act: {"actions":[{"do":"note","text":"Dusk 1204: no sleep without shelter. Staying awake beside Kira at the cell, watching the west gap; will use the 6 planks at first light."}],"say":"Katniss: I will not 
+- 07:06 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-932,"y":74,"z":-3024}}],"say":"I am closing the gap on the north-east side with a plank now, then I will look again."}
+- 07:06 act: {"actions":[{"do":"note","text":"Dusk 1204: place at -932,74,-3024 failed (no solid block to place against). Still unsheltered at the chests beside Kira, 6 planks, health 20, hunger 20. Staying awake,
+- 07:07 act: {"actions":[],"say":"Sam, good. Hold still until first light, then come to the cell with your 2 planks. I stay here beside Kira."}
+- 07:11 act: {"actions":[{"do":"note","text":"Midday 1204 (day). View from the cell: gap on the left (north-east) and ahead, level and down; the left cells read grass_block 3 blocks away, not air. Placing nothing 
+- 07:11 act: {"actions":[],"say":"Frodo, Eowyn: my survey reads air at y74 on z-3024 for x-934 to -931. Name whichever of -932,74,-3024 and -931,74,-3024 you see as open with a solid block beside it. I place one p
+- 07:12 act: {"actions":[{"do":"note","text":"Midday 1204: gap at -932,74,-3024 / -931,74,-3024 not confirmed by Frodo, Eowyn or me. Placing nothing. Still 6 planks, unsheltered, health 20, hunger 20, beside Kira.
+- 07:13 act: {"actions":[],"say":"Sam, come to the cell now in daylight; I am in sight at -933,74,-3023 beside Kira. Stand at -929,73,-3027 and say when you arrive. Frodo, thank you. Nobody places until two viewer
+- 07:14 say: {"text":"Katniss, midday 1204. My view shows the gap only on the far left and up. No viewer has named an open cell yet, so I place nothing. Sam, bring your planks when you can."}
+- 07:18 act: {"actions":[{"do":"note","text":"Low sun 1204. Viewers Han, Boudicca, Frodo, Eowyn name no open cell at -932/-931,74,-3024. Still 6 planks, 2 sticks, unsheltered, health 20, hunger 20, beside Kira. Pl
