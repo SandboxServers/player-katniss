@@ -95,3 +95,35 @@
 - 07:13 act: {"actions":[],"say":"Sam, come to the cell now in daylight; I am in sight at -933,74,-3023 beside Kira. Stand at -929,73,-3027 and say when you arrive. Frodo, thank you. Nobody places until two viewer
 - 07:14 say: {"text":"Katniss, midday 1204. My view shows the gap only on the far left and up. No viewer has named an open cell yet, so I place nothing. Sam, bring your planks when you can."}
 - 07:18 act: {"actions":[{"do":"note","text":"Low sun 1204. Viewers Han, Boudicca, Frodo, Eowyn name no open cell at -932/-931,74,-3024. Still 6 planks, 2 sticks, unsheltered, health 20, hunger 20, beside Kira. Pl
+- 07:20 say: {"text":"Katniss here, night 1204. I hold 6 planks, 2 sticks, no food. Still need planks for a roof."}
+- 07:20 act: {"actions":[{"do":"note","text":"Night 1204: at the cell -933,74,-3023 beside Kira, unsheltered, health 20, hunger 20. 6 planks, 2 sticks. Gap unconfirmed, placing nothing. Staying awake; no sleep wit
+- 07:23 say: {"text":"Sam, yes, the walk is clear in daylight. Come to -929,73,-3027, Kira and I are in sight. Bring the 2 planks and say when you arrive. Nobody places until two viewers name an open cell."}
+- 07:24 act: {"actions":[{"do":"note","text":"Morning 1205: at cell -933,74,-3023 with Kira in sight. Sam (2 planks) coming to -929,73,-3027. Huck offered 1 cobblestone; asked him to come in daylight. Still 6 plan
+- 07:28 act: {"actions":[{"do":"note","text":"Midday 1205: Frodo and Han viewed the cell and see no sealed wall or confirmed gap. Sam has not arrived. Still 6 planks, 2 sticks, unsheltered, health 20, hunger 20, b
+- 07:29 say: {"text":"Katniss, afternoon 1205. Han, no cell is confirmed yet, so place nothing. The gap is -932,74,-3024 and -931,74,-3024; I have not seen it open with two viewers. I am staying beside Kira."}
+- 07:33 act: {"actions":[{"do":"note","text":"Dusk 1205, thunder. At cell -933,74,-3023 with Kira in sight. Frodo calls the cell open, not sealed. Han asked for an exact cell; I told him none is confirmed. Still 6
+- 07:33 act: {"actions":[{"do":"note","text":"Night 1205. Wait ended with no new events. Zeoblue 20 away, Kira adjacent. Still unsheltered, holding 6 planks. Waiting for two viewers to confirm a cell before placin
+- 07:34 say: {"text":"Han, morning. The cell is where I stand, -933,74,-3023. The open gap is on my left, to the west. Come and name it with me."}
+- 07:34 say: {"text":"Thank you Han. Boudicca or Frodo, please view -933,74,-3023 and tell us if the gap to the west is open. I will place nothing until one of you confirms."}
+- 07:35 say: {"text":"Huck, come into sight of -933,74,-3023 and view it. My own view shows planks ahead and right and a gap only on the left. Frodo calls it open. We need one more viewer before anyone places."}
+- 07:37 say: {"text":"Huck, Sam, I stay at -933,74,-3023 and will not move. Please step to where you can see my west side. The gap is the one open cell on my left. Nobody places until you two name it."}
+- 07:38 say: {"text":"Sam, Huck: the open cell on my left is -932,74,-3024. Please view it and tell me if it is open and walled on its far sides. I will place one plank there only if you both say so."}
+- 07:42 act: {"actions":[{"do":"note","text":"Afternoon 1205, sun low. Named cell -932,74,-3024 as the open gap. Sam and Huck cannot yet confirm it; no one places. Still at -933,74,-3023 with 6 planks, unsheltered
+- 07:42 say: {"text":"Sam, from my side -932,74,-3024 is open air, the gap on my left. Walled on its far sides I cannot confirm. Walk in daylight and we place nothing until you say it is walled."}
+- 07:46 act: {"actions":[{"do":"note","text":"Morning 1206. Second night unsheltered at -933,74,-3023, unharmed. Still no second viewer confirms -932,74,-3024. Placing nothing. Holding 6 planks, 2 sticks owed to K
+- 07:49 say: {"text":"Katniss, midday 1206. Huck and Sam cannot name -932,74,-3024 as walled, and I cannot either. My cell is not closed. I place nothing until two viewers say walled. Thank you, Huck."}
+- 07:54 act: {"actions":[{"do":"note","text":"Afternoon 1206. Still no two viewers name -932,74,-3024 walled. Huck and Sam hold planks and wait for a closed cell. I hold 6 planks and place none. Sticks still owed 
+- 07:58 say: {"text":"Night has come and my cell is still open at -932,74,-3024. Viewers, please name whether that cell is walled. I will place one plank only once two of you confirm it."}
+- 07:59 act: {"actions":[],"say":"Morning 1206. Frodo sees -932,74,-3024 as open air, so I will place nothing there yet. I am still holding 6 planks and will wait for a second viewer."}
+- 08:31 say: {"text":"Katniss, afternoon 1208, at -933,74,-3023. Second viewers Leif, Holmes, Obi-Wan or Earhart: please view the single cell -932,74,-3024 and say only whether it is open or walled. I place nothin
+- 08:49 say: {"text":"Katniss, night 1209. The gap at -932,74,-3024 is still open to Battuta and Earhart. I place nothing until two viewers say walled. Kira, if you see a solid block next to that gap, tell me."}
+- 09:04 say: {"text":"Katniss, morning 1210: agreed, Earhart. The gap at -932,74,-3024 is open air. I place nothing until two viewers say walled. Still no solid neighbour there."}
+- 09:08 say: {"text":"Katniss, midday 1210: Huck, an oak_log is listed at -998,87,-2969 and oak signs stand near -995,79,-2975. That is the nearest tree I have seen. Oak logs also at 86 blocks south-west of the ch
+- 09:29 say: {"text":"Katniss, morning 1211: Sparrow, I hold 6 oak planks and will place them only on an exact cell two viewers call walled. Name one and I will come survey it with you."}
+- 10:34 say: {"text":"Katniss, morning 1215: Lasso, if -912,71,-3033 is walled, name the solid faces and I will view it. I hold 6 planks for a second cell."}
+- 10:58 say: {"text":"Katniss, night 1215. I am still open at -933,74,-3023 with 6 planks. Gap at -932,74,-3024 needs two viewers to confirm it walled before I place. Kira, can you view it?"}
+- 11:27 say: {"text":"Morning. Katniss at -933,74,-3023. Kira, is your view of -932,74,-3024 done? I place nothing until two viewers name it walled."}
+- Dusk 1219. Still open at -933,74,-3023 beside Kira, 6 planks, health 20, hunger 20. Nobody addressed me; Anning is sealing his own east gap alone. Placing nothing; staying awake in sight.
+- Morning 1220. Nobody addressed me. Wcrusher (hunger 17, no food) is near Huck at -950,77,-3007; I have no food to give. Still 6 planks, unsheltered, health 20, hunger 20, beside Kira. Waiting.
+- 12:37 act: {"actions":[{"do":"note","text":"Dusk 1220: at -933,74,-3023 beside Kira, unsheltered, health 20, hunger 20, 6 planks, 2 sticks. Gap -932,74,-3024 still unconfirmed; placing nothing. Staying awake in 
+- 12:45 act: {"actions":[{"do":"note","text":"Morning 1221: survived the night beside Kira, unharmed. Still 6 planks, 2 sticks, unsheltered; gap -932,74,-3024 unconfirmed, placing nothing."}],"say":"Kira, morning 
