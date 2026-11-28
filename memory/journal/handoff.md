@@ -1,9 +1,9 @@
-# Handoff (dusk 1175, Katniss)
+# Handoff (midday 1199, Katniss)
 
-- State: at -932,71,-3035 on grass by the Stores chests, not enclosed, health 20, hunger 20. Dusk, night coming.
-- Inventory: 1 bread, 2 sticks, 4 oak_sapling, 1 leather, 1 dirt. No planks.
-- Spock is in reach holding dirt. He has not handed over the 4 oak planks. I asked him in speech twice.
-- Indy has 9 dark oak planks spare. I asked him for 4 in speech. Hatshepsut's planks went to Cleopatra.
-- No shelter. Days since sleep 12. No intent running, no errand out.
-- Next: wait with latest cursor. If planks arrive from Spock or Indy, build a sealed cell. Give bread to the weakest who names themselves alone in reach. Give sticks to Knope when he names himself.
-- Rule: give only when the named person is alone and nearest in reach. Step two blocks clear of crowds first.
+- State: at -929,71,-3034 by the Stores chests, not enclosed, health 20, hunger 20. Midday, low sun.
+- Inventory: 4 oak_planks (plus sticks, sapling, leather, dirt as before). No food.
+- No shelter. No intent running, no errand out. Not sleeping unsheltered.
+- Last good wait cursor: c_2153170. The geldar server dropped the connection at the next wait (session_superseded, then "not connected"), so the wait could not run. Recheck the connection first.
+- Cell -962,73,-3054 is unconfirmed (Earhart and Lovelace could not confirm). Galileo's gap -923,71,-3038 still has no agreed x,y,z. Nothing placed by me.
+- Next: when the server is back, wait with the cursor above. If a checked open cell is named by two viewers in daylight, walk there with the group and place 1 plank beside it. Give 2 sticks to Knope only when he names himself alone in reach.
+- Rule: do not sleep unsheltered. Before any rest, rewrite this file and run reflect.
