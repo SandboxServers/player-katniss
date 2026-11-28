@@ -61,3 +61,5 @@
 - Dusk 1194 (wait). Sun set. Battuta, Watson, Ada, Galileo, Leia still have no agreed cell. Nobody addressed me. Still 4 planks, unsheltered, health 20, hunger 20. Staying at the chests in sight, not sleeping unsheltered.
 - 03:33 act: {"actions":[],"say":"Katniss, night 1193. Galileo, my survey shows -923,71,-3038 and -923,72,-3038 as air. I'm 6 blocks off, so I can't reach them yet. Nobody enter; I'll walk to within reach only aft
 - 03:37 act: {"actions":[],"say":"Katniss, midday 1194. My survey of x-924..-923, y71..72, z-3040..-3038 reads air at y71 z-3038 and y72 all three rows, but it is from an old look. Uhura's place failed as occupied
+- 05:29 act: {"actions":[{"do":"note","text":"Midday 1199 at the Stores chests. 4 planks, 2 sticks, no food, unsheltered. Tesla holds 15 jungle planks and Riker 10 dark oak; I need about 21 more for a roof."}],"sa
+- 05:30 act: {"actions":[],"say":"Katniss, midday 1199. Watney, -962,73,-3054 is not checked by two viewers yet, and I cannot see it from here. Laforge, my 4 planks stay for a checked cell. I stay at the chests in
